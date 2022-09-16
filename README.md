@@ -1,7 +1,7 @@
 # Tasty Taters Menu
 
 ```
-Cafe App, with a frontend built in React & Redux and a backend built in Django API.
+Tasty Taters, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
